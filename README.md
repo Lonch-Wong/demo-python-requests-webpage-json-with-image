@@ -2,7 +2,7 @@
 # 1开发环境配置 #
 1. 安装Python3.0+
 2. 安装Pycharm
-3. 在Pycharm复制以下代码
+3. 在Pycharm实现以下代码
 
 # 2代码 #
 
